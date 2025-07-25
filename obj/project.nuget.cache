@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jagZ20QdblY=",
+  "success": true,
+  "projectFilePath": "R:\\GITHUBREPOS\\CSHARP_testing\\CSHARP_testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\compu\\.nuget\\packages\\log73\\0.7.0\\log73.0.7.0.nupkg.sha512",
+    "C:\\Users\\compu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
